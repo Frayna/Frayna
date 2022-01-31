@@ -4,8 +4,13 @@ I'm currently building this md profile, so don't take to much care about it for 
 
 Skillset : ⚛️React | 💻 Nodejs
 
-Video content : [📺 Twitch](https://www.twitch.tv/theFrayna/) | [🎞️ Youtube](https://www.youtube.com/channel/UCKT0yvjVp93hOV09DVI9LAA)
-
+<details>
+  <summary><b> Networks : </b></summary>
+  <a href="https://www.twitch.tv/theFrayna/">⚈ 📺 Twitch</a> <br/>
+  <a href="https://www.youtube.com/channel/UCKT0yvjVp93hOV09DVI9LAA">⚈ 🎞️ Youtube</a> <br/>
+  <a href="https://www.linkedin.com/in/h%C3%A9l%C3%A9na-gourrand-836ba4188/">⚈ 📓 LinkedIn</a>
+  
+</details>
 <!--
 **Frayna/Frayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
