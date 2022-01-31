@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Héléna Gourrand 👋
+
+I'm currently building this md profile, so don't take to much care about it for now 😉
+
+Skillset : ⚛️React | 💻 Nodejs
 
 <!--
 **Frayna/Frayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
