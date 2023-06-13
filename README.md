@@ -21,6 +21,10 @@ I'm currently building this md profile, so don't take to much care about it for 
 | ![](https://static-cdn.jtvnw.net/previews-ttv/live_user_thefrayna-384x216.jpg)                                                 |
 | [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=thefrayna)](https://www.twitch.tv/thefrayna) |
 
+Interesting repositories :
+
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Frayna&repo=StreamOverlayServer&theme=dark)]() |
+
 <!--
 **Frayna/Frayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
