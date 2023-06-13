@@ -2,7 +2,7 @@
 
 I'm currently building this md profile, so don't take to much care about it for now 😉
 
-#### Skillset :
+### Skillset :
 
 | Front-end : | Back-end : | ORM/Database : | Others : |
 |-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---|---|
@@ -15,6 +15,7 @@ I'm currently building this md profile, so don't take to much care about it for 
 
 
 <!-- 💻 Nodejs -->
+### Streaming :
 
 |<img src="./icons/Twitch.svg" width="15px" height="15px" >  LiveStream : |
 |----------------------------------------------------------------------------------------------------------------------------|
