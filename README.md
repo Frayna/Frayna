@@ -23,7 +23,7 @@ I'm currently building this md profile, so don't take to much care about it for 
 
 Interesting repositories :
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Frayna&repo=StreamOverlayServer&theme=dark)](https://github.com/Frayna/StreamOverlayServer) [![](https://github-readme-stats.vercel.app/api/pin/?username=Frayna&repo=p6-OC&theme=dark)](https://frayna.github.io/p6-OC/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Frayna&repo=StreamOverlayServer&theme=dark)](https://github.com/Frayna/StreamOverlayServer) [![](https://github-readme-stats.vercel.app/api/pin/?username=Frayna&repo=p6-OC&theme=dark&cache_seconds=30)](https://frayna.github.io/p6-OC/)
 
 <!--
 **Frayna/Frayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
