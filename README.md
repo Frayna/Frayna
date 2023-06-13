@@ -1,7 +1,5 @@
 ### Hi there, I'm Frayna 👋
 
-I'm currently building this md profile, so don't take to much care about it for now 😉
-
 ### Skillset :
 
 | Front-end : | Back-end : | ORM/Database : | Others : |
