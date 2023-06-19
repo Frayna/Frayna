@@ -17,8 +17,8 @@
 
 |<img src="./icons/Twitch.svg" width="15px" height="15px" >  LiveStream : |
 |----------------------------------------------------------------------------------------------------------------------------|
-| ![](https://static-cdn.jtvnw.net/previews-ttv/live_user_captainzeinn-384x216.jpg)                                                 |
-| [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=captainzeinn)](https://www.twitch.tv/captainzeinn) |
+| ![](https://static-cdn.jtvnw.net/previews-ttv/live_user_thefrayna-384x216.jpg)                                                 |
+| [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=thefrayna)](https://www.twitch.tv/thefrayna) |
 
 ### Interesting repositories :
 
