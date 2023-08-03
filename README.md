@@ -13,7 +13,7 @@
 
 
 <!-- 💻 Nodejs -->
-<!--
+
 ### Streaming :
 
 |<img src="./icons/Twitch.svg" width="15px" height="15px" >  LiveStream : |
@@ -24,7 +24,7 @@
 ### Interesting repositories :
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Frayna&repo=StreamOverlayServer&theme=dark)](https://github.com/Frayna/StreamOverlayServer) [![](https://github-readme-stats.vercel.app/api/pin/?username=Frayna&repo=p6-OC&theme=dark&retry=1)](https://frayna.github.io/p6-OC/)
--->
+
 <!--
 **Frayna/Frayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
