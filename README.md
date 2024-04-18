@@ -18,8 +18,8 @@
 
 |<img src="./icons/Twitch.svg" width="15px" height="15px" >  LiveStream : |
 |----------------------------------------------------------------------------------------------------------------------------|
-| [![](https://static-cdn.jtvnw.net/previews-ttv/live_user_viarra-384x216.jpg)](https://www.twitch.tv/thefrayna)        |
-| [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=viarra)](https://www.twitch.tv/thefrayna) |
+| [![](https://static-cdn.jtvnw.net/previews-ttv/live_user_thefrayna-384x216.jpg)](https://www.twitch.tv/thefrayna)        |
+| [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=thefrayna)](https://www.twitch.tv/thefrayna) |
 
 ### Interesting repositories :
 
